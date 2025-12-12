@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aakash Prajapati</h1>
-<h3 align="center">I'm a self-taught web developer focused on creating clean and functional user interfaces. I’ve learned HTML, CSS, JavaScript, and React, and I’m currently working toward becoming a full-stack developer.</h3>
+# 💫 About Me:
+I'm a self-taught web developer focused on creating clean and functional user interfaces. I’m currently working toward becoming a full-stack developer.<br>🌱 I’m currently learning Advanced JavaScript concepts - React best practices - Backend fundamentals - Building real-world, full-stack projects<br><br>👨‍💻 All of my projects are available at https://github.com/Aakash-0210<br><br>💬 Ask me about Web development-related stuff<br><br>📫 How to reach me apg8128@gmail.com
 
-- 🌱 I’m currently learning **Advanced JavaScript concepts - React best practices - Backend fundamentals - Building real-world, full-stack projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aakash-0210](https://github.com/Aakash-0210)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apg8128@gmail.com) 
 
-- 💬 Ask me about **Web development related stuff**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aakash-0210&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aakash-0210&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-0210&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **apg8128@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=Aakash-0210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
