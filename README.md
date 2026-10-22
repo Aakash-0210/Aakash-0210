@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h3 align="left">Hi 👋, I'm Aakash, a software engineer building web applications with React and Java. I value simple solutions, clear code, and understanding the problems behind the features I build. Currently exploring backend engineering and system design.</h3>
-<h3 align="center">A full stack developer</h3>
+<h3 align="left">A Full stack JAVA | Javascript developer </h3>
 
 - 🌱 I’m currently learning **Java, Spring boot**
 
